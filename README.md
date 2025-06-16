@@ -1,4 +1,4 @@
-# Đề tài 11: Quản lý Đăng ký môn học của sinh viên 
+ Quản lý Đăng ký môn học của sinh viên 
 
 
 ## Giới Thiệu
@@ -9,6 +9,7 @@ Nhóm 5:
 Lý Hoài Nam MSV 23010773
 Trần Ngọc Bảo MSV 23010759 
 Lương Quốc Việt 23010769
+Nguyễn Anh Quân 23010215
 1. Tài khoản admin login
 username: 1
 password: 1
